@@ -7,7 +7,7 @@ Table structure for table questionsreponses
 |:---------------------:|:--------------------------------:|:----------:|:-------:|:---------:|:----------:|:----------:|
 | questions         	| text| No                             |      |  |   |   | 
 | reponse         		| text| No                             |      |  |   |   | 
-| id         		    | text| No                             |      |  |   |   | 
+| id         		    | int| No                             |      |  |   |   | 
 
 
 Dumping data for table questionsreponses
